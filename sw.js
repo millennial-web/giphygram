@@ -1,5 +1,5 @@
 //Service Worker Version
-const version = '1.1';
+const version = '1.0';
 
 //Static Assets - App Shell
 const appAssets = [
